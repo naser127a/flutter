@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253387560569",
+    "project_id": "harita1-ba97d",
+    "storage_bucket": "harita1-ba97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253387560569:android:bf0457a607bf87829266a8",
+        "android_client_info": {
+          "package_name": "com.example.google_maps_odev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASA2SKU1muIVv1SzaFidEXv-R6rHMKnCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
